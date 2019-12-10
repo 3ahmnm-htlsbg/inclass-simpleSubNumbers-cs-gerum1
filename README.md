@@ -16,8 +16,7 @@ Screenshots (concept and experience), Video
 Installation process, e.g. step by step instructions that I can run the project after cloning it
 
 ### Third party material: 
-(if used Fonts, Sounds, Music, Graphics, Materials, Code etc.)
-
+Template used from Github
 ### Project state: 
 incl. progress in percent
 
@@ -25,4 +24,4 @@ incl. progress in percent
 
 ### Lessons Learned: 
 
-Copyright by you :)
+Copyright by Richard Gerum
