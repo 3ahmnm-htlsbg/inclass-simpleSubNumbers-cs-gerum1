@@ -1,27 +1,43 @@
 # Unity2019114f1-2D-Template
 
 ### Project description: 
-Introduction/Project summary 
+Two Inputfields in which numbers can be put in. The script substract the second number from the first and displays the result.
 
 ### Development platform: 
-(OS, Unity Version, Visual Studio Version, used SDKs)
+- Mac OS Mojave
+- Unity 2019.1.f.14
+- Visual Studio Code
 
 ### Target platform: 
-WebGL, Mobile, VR Device incl. reference resolution 
+WebGL 1920x780
 
 ### Visuals: 
-Screenshots (concept and experience), Video
+
+##### Programm Executed:
+<div>
+<img src = "Screenshots/run.png" width = "500">
+</div>
+
+##### Programm Initialisation
+<div>
+<img src = "Screenshots/init.png" width = "500">
+</div> 
 
 ### Necessary setup/execution steps: 
-Installation process, e.g. step by step instructions that I can run the project after cloning it
+nothing
 
 ### Third party material: 
-Template used from Github
+gitHub Template: https://github.com/3ahmnm-htlsbg/Unity2019114f1-2D-Template
+
 ### Project state: 
-incl. progress in percent
+100%
 
 ### Limitations: 
+none
 
 ### Lessons Learned: 
+- How to create public variables, assign values to them in the scene
+- Call Methods from "On-Click"
+- How to make objects uninteractable
 
-Copyright by Richard Gerum
+Copyright by gerum1
